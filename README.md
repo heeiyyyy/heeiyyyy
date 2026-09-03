@@ -1,4 +1,4 @@
-# Hi, I'm kexinhe！Nice to meet you！
+# Hi, I'm Kexin He！Nice to meet you！
 <!-- 顶部动态打字效果横幅 -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 关于我
 
-- 🌱 正在探索 **Python、Web开发、Git**
+- 🌱 正在探索 **Python、AI、Git**
 - 📫 联系方式：**1849471769@qq.com**
 - ⚡ 有趣的灵魂：喜欢用代码解决生活中的小问题！
 
